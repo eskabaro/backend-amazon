@@ -1,0 +1,264 @@
+{
+   "product": [
+      {
+         "id": 1,
+         "title": "Apple iPhone 14 Plus 512 ГБ eSim (Midnight)",
+         "description": "Meet the new iPhone 14 Plus. Big and more. Incredible autonomy of work. A unique camera. All this in your new iPhone 14 Plus. The use of this phone is possible only with the presence of an eSim (electronic SIM card)",
+         "characteristics": {
+            "Color Apple": "Midnight",
+            "Processor": [
+               "Processor A15 Bionic",
+               "Next generation Neural Engine"
+            ],
+            "Weight": "173g",
+            "Display": [
+               "Super Retina XDR display",
+               "OLED display, full front panel, 6.7-inch diagonal",
+               "2532×1170 pixels",
+               "460 ppi",
+               "HDR support",
+               "True Tone Technology",
+               "Wide color gamut (P3)",
+               "Haptic feedback when pressed Contrast ratio 2,000,000:1 (typical)",
+               "Brightness up to 1000 cd/m² (typical)",
+               "Brightness up to 1000 cd/m² (typical); up to 1200 cd/m² when viewing HDR content",
+               "120 Hz"
+            ]
+         },
+         "price": 1139.16,
+         "stars": 4.5,
+         "images": [
+            "https://www.istore.ua/upload/iblock/05e/1cgduywjdtn8u7oy1wionpqkhrr5lkn1/14_plus_spase_black_3_is.png",
+            "https://www.istore.ua/upload/iblock/1a1/xbqdnppkshuterhj6dyihjz0soe83yas/14_plus_spase_black_2_is.png",
+            "https://www.istore.ua/upload/iblock/356/ss92qfql8d5fan951w751vw2k7xrc2k7/14_plus_spase_black_1_is.png"
+         ]
+      },
+      {
+         "id": 2,
+         "title": "Apple iPad Pro 12.9 2022 Wi-Fi+Cellular 2 TB M2 Silver",
+         "description": "Amazing performance. An incredibly advanced display. Ultra-fast wireless connection. New level of Apple Pencil capabilities. Powerful new features in iPadOS 16. The ultimate iPad experience.",
+         "characteristics": {
+            "Connection type": "Wi-Fi + cellular data",
+            "Face ID": "Enabled by TrueDepth camera for facial recognition",
+            "Video shooting": [
+               "Record 4K video at 24, 25, 30 or 60 frames per second",
+               "(wide angle format)",
+               "1080p HD video recording at 25, 30 or 60 frames per second",
+               "720p HD video recording at 30 frames per second",
+               "Запис відео ProRes до 4K при 30 кадрах за секунду (1080p при 30 кадрах за секунду для 128 ГБ пам'яті)",
+               "2x optical zoom",
+               "Brighter True Tone flash"
+            ],
+            "Dimensions (H×W×D):": "280.6 mm x 214.9 mm x 6.4 mm",
+            "Display": [
+               "12.9-inch (diagonal) mini-LED display",
+               "with Multi Touch backlight and IPS technology",
+               "2D lighting system with 2596 full-scale zones",
+               "local dimming",
+               "Resolution 2732 by 2048 pixels at 264 pixels per inch (ppi)",
+               "Wide color display (P3)",
+               "Fully laminated display"
+            ],
+            "Cell": [
+               "Professional camera system: wide-angle and ultra-wide-angle cameras",
+               "Wide-angle: 12 MP, aperture ƒ/1.8",
+               "Five-element lens (wide-angle and ultra-wide-angle)",
+               "Panorama (up to 63 MP)",
+               "Smart HDR 4",
+               "Automatic image stabilization"
+            ]
+         },
+         "price": 1907.71,
+         "stars": 3.8,
+         "images": [
+            "https://www.istore.ua/upload/iblock/829/tmnfw1wgamc0aoik9auyn1higp6syno3/MNY03_7_is.png",
+            "https://www.istore.ua/upload/iblock/715/qn20at4242cf3divw62hlf09z98u9jgz/MNY03_6_is.png",
+            "https://www.istore.ua/upload/iblock/43f/kq3m3ooe84x9r5wdfmnow398qs1kq5or/MNY03_5_is.png",
+            "https://www.istore.ua/upload/iblock/f37/6ehktfkdouwudcg3zcompq17euzk6pfo/MNY03_4_is.png",
+            "https://www.istore.ua/upload/iblock/3a6/l4gmwtplf61ogul0thf3u1uj1tfwzge4/MNY03_2_is.png"
+         ]
+      },
+      {
+         "id": 3,
+         "title": "Apple MacBook Air 15 2023, 512 GB M2 Space Gray",
+         "description": "Impressively large. Incredibly thin. With the new 15-inch MacBook Air - more space for your favorite things thanks to the large Liquid Retina display Equipped with a productive M2 chip that increases battery life up to 18 hours, the New MacBook Air is lightning-fast performance in an ultraportable design.",
+         "characteristics": {
+            "Battery": "Up to 18 hours of Internet use from a wireless network Up to 20 hours when playing movies from the Apple TV program Standby mode: up to 30 days Battery type: built-in, lithium-polymer Built-in lithium-polymer battery with a capacity of 58.2 Wh Power adapter USB- C with a power of 30 W Charging port: MagSafe 3",
+            "Wireless communication": "802.11ax Wi-Fi 6, Wi-Fi IEEE 802.11ac with support for 802.11a/b/g/n",
+            "Audio playback": [
+               "Four stereo speakers",
+               "Stereo sound",
+               "Headphone jack mini-jack 3.5 mm"
+            ],
+            "Dimensions (H×W×D):": "340,4×237,6×1,15",
+            "Display": [
+               "Type: liquid crystal with backlit LED backlight with IPS technology",
+               "Resolution: 2560×1664 dots (224 dots/inch)",
+               "Brightness 500 nits",
+               "True Tone technology"
+            ],
+            "Cell": "FaceTime HD (1080p)"
+         },
+         "price": 1771.44,
+         "stars": 4.2,
+         "images": [
+            "https://www.istore.ua/upload/iblock/257/c4t38nwwkyi7q801cdp0s6d354g1ptp2/MQKQ3_7_is.png",
+            "https://www.istore.ua/upload/iblock/069/guv58epumpmze4997bo0l4prai69yokn/MQKQ3_1_is.png",
+            "https://www.istore.ua/upload/iblock/8dd/oyi1ig2ukw4i8yvj35kmibfhm2e6df79/MQKQ3_6_is.png",
+            "https://www.istore.ua/upload/iblock/24b/f5qcpccye7jem6bv57gjnldpu6tv80mn/MQKQ3_5_is.png",
+            "https://www.istore.ua/upload/iblock/146/1eml4e61g6dd9a9lisf7f8qbt0afhpbn/MQKQ3_4_is.png",
+            "https://www.istore.ua/upload/iblock/712/kabuboy8fjd6n9mnjdxzub1x6037k0u5/MQKQ3_2_is.png"
+         ]
+      },
+      {
+         "id": 4,
+         "title": "Apple Watch SE GPS 44mm Silver Aluminium Case with White Sport Band",
+         "description": "Great Deal. Three stylish body colors. Powerful sensors for Innovative security features. Fast dual-core processor for extra performance. Apple Watch SE is now better than ever.",
+         "characteristics": {
+            "Release year": "2022",
+            "Diagonal": "40 mm",
+            "Color Apple": "Silver",
+            "Weight": "36,5 g",
+            "Battery": "Charging time: 1.5-2.5 hours",
+            "Control": [
+               "Touch gestures (including Force Touch)",
+               "Digital Crown (multifunctional electronic \"crown\")",
+               "Hand movement (via gyroscope)"
+            ],
+            "Operating system": "watchOS 6"
+         },
+         "price": 310.66,
+         "stars": 4.9,
+         "images": [
+            "https://www.istore.ua/upload/resize_cache/iblock/a08/twxcgwrenhlz5e1a0nuaxfnm6zlf4fk3/920_600_1/Snimok-ekrana-2022_09_23-183748.png",
+            "https://www.istore.ua/upload/resize_cache/iblock/abf/ozii2wu09qqc0x4a311wwlk4tdeabo3r/920_600_1/Snimok-ekrana-2022_09_23-183808.png",
+            "https://www.istore.ua/upload/resize_cache/iblock/7aa/lkuhhn39n1a9wcrpqin3j7zgobszpkjg/920_600_1/Snimok-ekrana-2022_09_23-183821.png"
+         ]
+      },
+      {
+         "id": 5,
+         "title": "Belkin USB Type-C to Lightning 2m",
+         "description": "Enjoy fast charging and extra reliability with braided USB-C to Lightning cables.",
+         "price": 27.23,
+         "stars": 3.5,
+         "images": [
+            "https://www.istore.ua/upload/iblock/1a3/y3merq19my4dhsa89bdejxp6hy9sasjh/belkin_CAA004BT1MWH_4_is.jpg",
+            "https://www.istore.ua/upload/iblock/4f5/bkrf317p64ftsp7b9onxz7z9qcfv2ll3/belkin_CAA004BT1MWH_3_is.jpg",
+            "https://www.istore.ua/upload/iblock/9b8/fn2mu232tk1gqdfzgnb3u31rzvnyt45h/belkin_CAA004BT1MWH_2_is.jpg",
+            "https://www.istore.ua/upload/iblock/62d/m7tzn49m88sgiadbaf9o2rfzipfwm8un/belkin_CAA004BT1MWH_1_is.jpg"
+         ]
+      },
+      {
+         "id": 6,
+         "title": "JBL Clip 4 Eco Blue",
+         "description": "JBL GO 3 is a new generation of ultra-portable speaker that combines the legendary JBL brand sound and bright modern design. It was created for those who do not want to part with their favorite music even for a second, and therefore has the most compact form factor, a waterproof case with protection against dust and moisture and a large battery. On a walk or during cycling, by the pool or on the beach - let your favorite music accompany you everywhere.",
+         "characteristics": {
+            "Manufacturer": "JBL",
+            "Device type": "Portable acoustics",
+            "Device color": "Blue",
+            "Audio playback": "Bluetooth",
+            "Connection type": "micro USB"
+         },
+         "price": 68.11,
+         "stars": 4.1,
+         "images": [
+            "https://www.istore.ua/upload/iblock/b7c/cc88xdp8os3f3z3bywskliw9z5hwpkxr/JBLCLIP4ECOBLU_4_is.png",
+            "https://www.istore.ua/upload/iblock/f29/ft4x39xh0z202rysm5wccn0dto1jlxnu/JBLCLIP4ECOBLU_3_is.png",
+            "https://www.istore.ua/upload/iblock/abc/6oevhza3rl31p2rppo00em4b2fenreuh/JBLCLIP4ECOBLU_1_is.png",
+            "https://www.istore.ua/upload/iblock/c8f/a7uadi47l05x79u9gdasdpp9ay4z4qn2/JBLCLIP4ECOBLU_2_is.png"
+         ]
+      },
+      {
+         "id": 7,
+         "title": "Apple AirPods Pro 2 Case",
+         "description": "Apple provides an opportunity to restore lost components for less than half the cost of a new gadget. Few companies will provide you with such a service, because the loss of a gadget is not the reason for a bad gadget! And so you can restore your Apple AirPods, in this case the charging case.",
+         "price": 87.18,
+         "stars": 4.7,
+         "images": [
+            "https://www.istore.ua/upload/iblock/5ae/h3sjn69kkltztxjl4jy5uxgb951hz56t/MQD83_3_is.png",
+            "https://www.istore.ua/upload/iblock/01c/w9paxyiuq1kl3mu5rrv14ksu5n136th3/MQD83_1_is.png",
+            "https://www.istore.ua/upload/iblock/e51/zmykphs5a0y6dmyd9x1768fazerhojgz/MQD83_2_is.png",
+            "https://www.istore.ua/upload/iblock/767/5xsoi814283r8szn22c9atfteyk0jwrl/MQD83_CASE_3_is.png"
+         ]
+      },
+      {
+         "id": 8,
+         "title": "M1 Max Chip with 10-Core CPU and 32-Core GPU, 32GB Memory, 2TB SSD",
+         "description": "Mac Studio is a brand new productive Mac. In an extremely compact form, it combines incredible efficiency, a wealth of ports and unprecedented capabilities. Everything you need is at your fingertips. And any place can turn into your studio.",
+         "characteristics": {
+            "Release year": "2021",
+            "CPU": "Apple M1 Max",
+            "Color Apple": "Silver",
+            "Storage capacity": "2 TB",
+            "RAM": "32 GB",
+            "Connection interfaces": [
+               "4 x Thunderbolt 4 digital video output",
+               "HDMI digital video output",
+               "3.5mm headphone output (extended support for high impedance headphones)",
+               "Memory card slot",
+               "10Gb Ethernet"
+            ]
+         },
+         "price": 3243.12,
+         "stars": 4.0,
+         "images": [
+            "https://www.istore.ua/upload/resize_cache/iblock/e51/dnmpvmeuyguexdmuvqvb38ud5yrlghtr/920_600_1/apple_mac_studio_m1_max_512gb_40091760047998.jpg",
+            "https://www.istore.ua/upload/resize_cache/iblock/567/lzuzb5b2hqlljptok8wu1f4pfn39hv06/920_600_1/apple_mac_studio_m1_max_512gb_99033759990333.jpg",
+            "https://www.istore.ua/upload/resize_cache/iblock/c0b/5wkwum53gv09ipfnbelp00hwn0hkxmfx/920_600_1/apple_mac_studio_m1_max_512gb_89585469762916.jpg",
+            "https://www.istore.ua/upload/resize_cache/iblock/d07/q7y0pbur40j7fkxgjcikbab0ve7ck8ik/920_600_1/apple_mac_studio_m1_max_512gb_67718195837651.jpg"
+         ]
+      },
+      {
+         "id": 9,
+         "title": "Apple MacBook Air 15 2023, 512 GB M2 Midnight",
+         "description": "Impressively large. Incredibly thin.With the new 15-inch MacBook Air - more space for your favorite things thanks to the large Liquid Retina display Equipped with a productive M2 chip that increases battery life up to 18 hours, the New MacBook Air offers lightning-fast performance in an ultraportable design.",
+         "characteristics": {
+            "Battery": "Up to 18 years of work in the Internet with a wire-free battery Up to 20 years of working hours on the Internet from the Apple TV software Acquisition mode: up to 30 days 58.2 W∙year 30W Power Charging Port: MagSafe 3",
+            "Wireless communication": "802.11ax Wi-Fi 6, Wi-Fi IEEE 802.11ac with support for 802.11a/b/g/n",
+            "Audio playback": [
+               "Four stereo speakers",
+               "Stereo sound",
+               "Headphone jack mini-jack 3.5 mm"
+            ],
+            "Dimensions (H×W×D):": "340,4×237,6×1,15",
+            "Display": [
+               "Type: liquid crystal with backlit LED backlight with IPS technology",
+               "Resolution: 2560×1664 dots (224 dots/inch)",
+               "Brightness 500 nits",
+               "True Tone technology"
+            ],
+            "Cell": "FaceTime HD (1080p)"
+         },
+         "price": 1771.44,
+         "stars": 4.9,
+         "images": [
+            "https://www.istore.ua/upload/iblock/df3/kdwq5xk306s1r6uo2hr13i4pf1slvon2/MQKX3_9_is.png",
+            "https://www.istore.ua/upload/iblock/a36/2quv4io4xvfbkbgius17no99q33eqa92/MQKX3_3_is.png",
+            "https://www.istore.ua/upload/iblock/0b9/b0yyjogm4fornxdkqloo9avzvadm5h3p/MQKX3_8_is.png",
+            "https://www.istore.ua/upload/iblock/58b/bg6s4i3wnyi3j8szkk5l0lkmvn4qyhfk/MQKX3_7_is.png",
+            "https://www.istore.ua/upload/iblock/5c8/jep7anulez2wknldw64lydcp10j4ut4k/MQKX3_6_is.png",
+            "https://www.istore.ua/upload/iblock/284/4mu8fwywozerofl007diqsab1xpmejvu/MQKX3_5_is.png"
+         ]
+      },
+      {
+         "id": 10,
+         "title": "Belkin USB-C 7-in-1 Multiport Adapter",
+         "description": "Create powerful work wherever you are with the USB-C 7-in-1 Multiport Adapter. Connect your MacBook, Chromebook or PC notebook to 4K video, PCs, peripherals, the Internet and more using the USB-C port.",
+         "characteristics": {
+            "Manufacturer": "Belkin",
+            "Cable type": "Splitter (Hub)",
+            "Connector type": "USB-C",
+            "Device color": "Silver"
+         },
+         "price": 114.44,
+         "stars": 4.6,
+         "images": [
+            "https://www.istore.ua/upload/iblock/e1b/xifjoajdpdadcgo97m7rsya97ljyd4mi/INC009BTSGY_5_is.png",
+            "https://www.istore.ua/upload/iblock/e49/xphgfgqz6ykhaucuuk5asqnm6rylasnm/INC009BTSGY_4_is.png",
+            "https://www.istore.ua/upload/iblock/3e3/jfyh994utr65qlq94l39rscc8frz3m28/INC009BTSGY_3_is.png",
+            "https://www.istore.ua/upload/iblock/271/ybwbe24i12ynl4lpowjrz64s3xr1pa11/INC009BTSGY_2_is.png",
+            "https://www.istore.ua/upload/iblock/296/pse2a2gd0xswfxrskudt3bw8c7d8bmyi/INC009BTSGY_1_is.png"
+         ]
+      }
+   ]
+}
