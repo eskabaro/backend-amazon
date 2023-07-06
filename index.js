@@ -8,7 +8,7 @@ server.use(middlewares);
 server.use(router);
 
 server.use((req, res, next) => {
-   res.setHeader("Access-Control-Allow-Origin", "*"); // * разрешает доступ со всех источников, можно указать конкретный источник
+   res.setHeader("Access-Control-Allow-Origin", "https://easy-jade-colt-cuff.cyclic.app/users"); // * разрешает доступ со всех источников, можно указать конкретный источник
    res.setHeader(
       "Access-Control-Allow-Methods",
       "GET, POST, PUT, DELETE, OPTIONS" // Разрешенные HTTP-методы
